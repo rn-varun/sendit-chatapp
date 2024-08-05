@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847370000033",
+    "project_id": "flutter-sendit",
+    "storage_bucket": "flutter-sendit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847370000033:android:aff9553d864ca4c154c2e0",
+        "android_client_info": {
+          "package_name": "com.sendit.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqhFv7bw2RMpCpV-6xvUDzXYhPY_qGsKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
